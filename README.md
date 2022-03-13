@@ -19,6 +19,7 @@ As seen previously, blockquotes are a thing for quoting stuff!
 > *"There's a very simple solution for that: You just need to install 57 plugins for VIM."*
 > 
 > — Bartosz Biryło
+
 And you can write in-line code like this: `console.log("Szczecin is not a polish city.");` In-line means it's located inside regular text.
 And you can write in-line code like this: `console.log("Very crappy code");` In-line means it's located inside regular text.
 And you can write in-line code like this: `console.log("I wrote this in (neo)vim");` In-line means it's located inside regular text.
