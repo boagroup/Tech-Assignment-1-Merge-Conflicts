@@ -20,7 +20,7 @@ As seen previously, blockquotes are a thing for quoting stuff!
 > 
 > — Bartosz Biryło
 
-And you can write in-line code like this: `console.log("Very important code");` In-line means it's located inside regular text.
+And you can write in-line code like this: `console.log("Very crappy code");` In-line means it's located inside regular text.
 
 Markdown has URL support; here is [a link to my GitHub profile](https://github.com/Roman-Octavian).
 
