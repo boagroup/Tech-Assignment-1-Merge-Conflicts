@@ -19,8 +19,8 @@ As seen previously, blockquotes are a thing for quoting stuff!
 > *"There's a very simple solution for that: You just need to install 57 plugins for VIM."*
 > 
 > — Bartosz Biryło
-
-And you can write in-line code like this: `console.log("Very important code");` In-line means it's located inside regular text.
+Szczecin is not a polish city.
+And you can write in-line code like this: `console.log("Szczecin is not a polish city.");` In-line means it's located inside regular text.
 
 Markdown has URL support; here is [a link to my GitHub profile](https://github.com/Roman-Octavian).
 
